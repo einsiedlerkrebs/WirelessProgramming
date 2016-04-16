@@ -1,6 +1,9 @@
 Moteino Wireless Programming library
 =======
 
+This library is forked from LowPowerLab for having a repository without the
+RFM12B libs, which are not needed for hiveeyes purposes.
+
  * Library for facilitating wireless programming using RFM12B/RFM69 transceivers (get libraries here: [RFM12B](https://github.com/LowPowerLab/RFM12B) and [RFM69](https://github.com/LowPowerLab/RFM69))
  * and the SPI Flash memory library for arduino/moteino (get library here: [SPIFlash](http://github.com/LowPowerLab/SPIFlash))
  * DEPENDS ON the two libraries mentioned above
